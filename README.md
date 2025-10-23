@@ -7,7 +7,7 @@ Proyek ini dirancang untuk membantu pengguna dalam melakukan deteksi cacat pada 
 
 ## 🎬 Demo Aplikasi
 
-🎥 [Klik di sini untuk menonton video demo](./Weld Defect Detect App.mp4)
+[![Watch the video](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/hqdefault.jpg)]([https://youtu.be/ID_VIDEO_YOUTUBE](https://youtube.com/shorts/oXsshq6DGwU?si=5v-3HyXMjK7kt0fp ))
 
 ---
 
