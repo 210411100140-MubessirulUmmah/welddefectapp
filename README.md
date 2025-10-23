@@ -7,7 +7,7 @@ Proyek ini dirancang untuk membantu pengguna dalam melakukan deteksi cacat pada 
 
 ## 🎬 Demo Aplikasi
 
-[![Watch the video](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/hqdefault.jpg)]([https://youtu.be/ID_VIDEO_YOUTUBE](https://youtube.com/shorts/oXsshq6DGwU?si=5v-3HyXMjK7kt0fp ))
+https://github.com/user-attachments/assets/dfcac90e-3976-4b90-9f67-b45692cbd911
 
 ---
 
