@@ -5,6 +5,12 @@ Proyek ini dirancang untuk membantu pengguna dalam melakukan deteksi cacat pada 
 
 ---
 
+## 🎬 Demo Aplikasi
+
+🎥 [Klik di sini untuk menonton video demo](.weld defect detect.mp4)
+
+---
+
 ## 🚀 Deskripsi Singkat
 
 Aplikasi ini menggabungkan teknologi **Deep Learning**, **Flask API**, dan **Android** untuk memberikan solusi deteksi cacat berbasis citra.
@@ -64,5 +70,3 @@ Selain itu, pengguna dapat menyimpan hasil deteksi untuk ditinjau kembali melalu
 ## 👨‍💻 Author
 
 **Mubessirul Ummah**
-Universitas Trunojoyo Madura
-Proyek: *Weld Defect Detection using DETR Model and Android Cloud Integration*
