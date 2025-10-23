@@ -7,7 +7,7 @@ Proyek ini dirancang untuk membantu pengguna dalam melakukan deteksi cacat pada 
 
 ## 🎬 Demo Aplikasi
 
-🎥 [Klik di sini untuk menonton video demo](.weld defect detect.mp4)
+🎥 [Klik di sini untuk menonton video demo](./Weld Defect Detect App.mp4)
 
 ---
 
